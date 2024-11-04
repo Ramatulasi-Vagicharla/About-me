@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @20101113
-- 👀 I’m interested as a Frontend Developer
+- 👀 I’m interested as a Java FullStack Developer
 - 🌱 I’m currently learning Full stack
 - 💞️ I’m looking to collaborate as a Full Stack developer
 - 📫 How to reach me through mail.
