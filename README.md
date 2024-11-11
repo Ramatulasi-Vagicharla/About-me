@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @20101113
+- 👋 Hi, I’m Rama Tulasi Vagicharla
 - 👀 I’m interested as a Java FullStack Developer
 - 🌱 I’m currently learning Full stack
 - 💞️ I’m looking to collaborate as a Full Stack developer
