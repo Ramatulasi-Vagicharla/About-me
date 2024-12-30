@@ -54,8 +54,8 @@ I’m always open to collaborating on innovative projects, sharing ideas, or dis
 
 ## 📊 GitHub Stats
 
-![Rama's GitHub Stats](https://github-readme-stats.vercel.app/api?username=20101113&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=20101113&layout=compact&theme=radical)
+![Rama's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ramatulasi-Vagicharla&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ramatulasi-Vagicharla&layout=compact&theme=radical)
 
 ---
 
