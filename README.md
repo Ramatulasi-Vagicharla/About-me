@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rama Tulasi Vagicharla
-- 👀 I’m interested as a Java FullStack Developer
+- 👀 I’m interested as a Java FullStack Developer, Innovator.
 - 🌱 I’m currently learning Full stack
-- 💞️ I’m looking to collaborate as a Full Stack developer
+- 💞️ I’m looking to collaborate as a Full Stack developer.
 - 📫 How to reach me through mail.
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: ...
