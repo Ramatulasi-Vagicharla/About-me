@@ -1,7 +1,6 @@
 # 👋 Hi there! I'm Rama Tulasi Vagicharla
 
 Welcome to my GitHub profile! I'm passionate about technology, innovation, and making a positive impact through creative solutions.
-
 ---
 
 ## 🌟 About Me
