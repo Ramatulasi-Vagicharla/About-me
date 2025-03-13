@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm passionate about technology, innovation, and m
   - **Frontend**: HTML5, CSS3, JavaScript, React.js, Bootstrap, Angular.js
   - **Backend**: Java, Spring Boot, Node.js
   - **Database**: MySQL.
-  - **Others**: Python, CI/CD, Github, Gitlab, Chatling, Tiiny, Netlify, Email js, Draw.io, Codepen, Advanced Microsoft Office, Git, REST APIs
+  - **Others**: Python, CI/CD, Github, Gitlab, Chatling, Tiiny, Netlify, Email js, Draw.io, Vs studio code, Postman, Codepen, Advanced Microsoft Office, Git, REST APIs
 - 🌍 **Languages**: English, Telugu, Tamil, German[A1], Hindi.
 
 ---
@@ -45,8 +45,8 @@ I’m always open to collaborating on innovative projects, sharing ideas, or dis
 
 ## 🌟 Highlights
 
-- 🎓 Completed my **BE in CSE** and specialized training in Java Full Stack from **ExcelR**.
-- 🏆 Successfully built a Full Stack **Employee Management System** project.
+- 🎓 Completed my **BE in CSE** and specialized training in Java Full Stack from **ExcelR** & **mthree**.
+- 🏆 Successfully built a Full Stack **Medi Bridge Hospital Systems** **Employee Management System** projects.
 - 💼 Gained hands-on experience working with cross-functional teams and understanding real-world project requirements.
 
 ---
