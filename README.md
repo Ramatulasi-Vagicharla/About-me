@@ -12,8 +12,8 @@ Welcome to my GitHub profile! I'm passionate about technology, innovation, and m
   - **Frontend**: HTML5, CSS3, JavaScript, React.js, Bootstrap, Angular.js
   - **Backend**: Java, Spring Boot, Node.js
   - **Database**: MySQL.
-  - **Others**: Advanced Microsoft Office, Git, REST APIs
-- 🌍 **Languages**: English, Telugu, Tamil, German[A1].
+  - **Others**: Python, CI/CD, Github, Gitlab, Chatling, Tiiny, Netlify, Email js, Draw.io, Codepen, Advanced Microsoft Office, Git, REST APIs
+- 🌍 **Languages**: English, Telugu, Tamil, German[A1], Hindi.
 
 ---
 
