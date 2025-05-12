@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm passionate about technology, innovation, and m
 - 💡 **Interests**: Full Stack Development, Leadership, Innovation, and Technology’s impact on society
 - 🛠️ **Tech Skills**: 
   - **Frontend**: HTML5, CSS3, JavaScript, React.js, Bootstrap, Angular.js
-  - **Backend**: Java, Spring Boot, Node.js
+  - **Backend**: Java, Spring Boot.
   - **Database**: MySQL.
   - **Others**: Python, CI/CD, Github, Gitlab, Chatling, Tiiny, Netlify, Email js, Draw.io, VS code, Postman, Codepen, Advanced Microsoft Office, Git, REST APIs
 - 🌍 **Languages**: English, Telugu, Tamil, German[A1], Hindi.
