@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm passionate about technology, innovation, and m
 ## 🌟 About Me
 
 - 💻 **Aspiring Java Full Stack Developer** | **Innovator** | **Problem Solver**
-- 🌱 **Currently Learning**: Advanced Full Stack Development (Java, React.js, Angular.js, and Spring Boot)
+- 🌱 **Currently Learning**: Advanced Full Stack Development (Java, React.js, Angular.js and Spring Boot)
 - 💡 **Interests**: Full Stack Development, Leadership, Innovation, and Technology’s impact on society
 - 🛠️ **Tech Skills**: 
   - **Frontend**: HTML5, CSS3, JavaScript, React.js, Bootstrap, Angular.js
